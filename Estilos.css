@@ -1,8 +1,36 @@
-h1{
+/* COMO SE ESTRUCTURA EL CSS */
+/* h1{
     color: blue;
-    background-color: yellow;
-    border: 1px solid black;
+    font-size: 50px;
+    width: 500px;
 }
 p{
     color: red;
+}
+
+.caja{
+    border: 2px solid black;
+}
+
+.interiorCaja{
+    padding: 10px;
+    width: calc(90% - 20px) ;
+    background-color: purple;
+    color: white;
+    
+}
+
+.box {
+    margin: 30px;
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    transform: rotate(0.8turn)
+} */
+
+/* COMO FUNCIONA EL CSS */
+
+span{
+    border: 1px solid black;
+    background-color: lime;
 }
