@@ -30,7 +30,70 @@ p{
 
 /* COMO FUNCIONA EL CSS */
 
-span{
+/* span{
     border: 1px solid black;
     background-color: lime;
+} */
+
+/* Ejemplo practico */
+
+/* .caja{
+    width: 600px;
+    border: 3px black solid;
+}
+
+.nombre{
+    color: hotpink;
+    border-bottom: dotted purple;
+}
+
+.sub{
+    color:gray;
+    
+}
+
+.contacto{
+    background-color: #eeeeee;
+    border: 5px solid purple;
+    padding: 10px;
+    margin: 5px 10px;
+    
+}
+
+.mail{
+    text-decoration: none;
+    color:red;
+}
+
+.web{
+    color: green;
+}
+
+li{
+    font-size: 20px;
+} */
+
+.listas{
+    color: purple;
+    font-size: 25px;
+}
+
+.listasnegras{
+    color: black;
+}
+
+.herencia2{
+    color: green;
+}
+
+.my-class-1 a {
+    color: inherit;
+}
+
+.my-class-2 a {
+    color: initial;
+}
+
+.my-class-3 a {
+    color: unset;
 }
